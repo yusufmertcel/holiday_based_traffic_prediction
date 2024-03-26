@@ -1,0 +1,10 @@
+Anaconda Navigator
+Spyder
+Python 3.11
+Sklearn
+Streamlit
+Pandas
+Numpy
+catboost
+matplotlib
+scipy.fftpack

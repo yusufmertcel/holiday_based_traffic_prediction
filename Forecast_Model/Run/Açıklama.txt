@@ -1,0 +1,10 @@
+Adım-1) Conda env oluşturulmalı ve Misc klasöründeki kütüphaneler indirilmeli.
+Adım-2) Doc klasöründeki excel ve csv dosyaları kod klasörüyle aynı klasörün içine atılmalı.
+Adım-3) Hazır parametre ve günlerin bulunduğu .pkl dosyalı Codes klasörünün içerisindeki dosyalar main.py ile aynı dizinde bulunmalı.
+Adım-4) Herhangi bir editörden kod klasörü integrated terminalde açılarak 
+		conda activate <env_name> 
+	komutu girilerek env değişkeni aktif edilmeli
+Adım-5) python -m streamlit run main.py 
+	komutu girilerek arayüz kodu çalıştırılmalı
+Adım-6) Eğer web browser sekmesi otomatik açılmadıysa terminalde çıkan http://localhost adresine tıklanmalı.
+Adım-7) Arayüz açıldıktan sonra gün ve segment bilgisi seçilerek model çalıştırılmalı. Eğer başka bir gün ya da segment çalıştırılmak isteniyorsa Stop Model butonuna basıp gün ya da segment seçilip tekrar Run Model butonuna basılmalı.
